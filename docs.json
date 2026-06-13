@@ -224,7 +224,6 @@
               "teams/dept",
               "teams/business_hour",
               "teams/team",
-              "teams/role",
               "teams/using_team"
               
             ]
@@ -353,29 +352,6 @@
             ]
           }
         ]
-      },
-       {
-        "tab": "API References",
-        "groups": [
-          {
-            "group": "Contact & Chats APIs",
-            "pages": [
-              "contact-chat/get_all_contact",
-              "contact-chat/getting_group_segment",
-              "contact-chat/add_whatsapp_contact",
-              "contact-chat/delete_whatsapp_contact",
-              "contact-chat/website_data_metadata"
-            ]
-          },
-          {
-            "group": "WhatsApp Cloud API",
-            "pages": [
-              "whatsapp-cloud-api/get_template_list",
-              "whatsapp-cloud-api/whatsapp_template",
-              "whatsapp-cloud-api/post_send_template_message"
-            ]
-          }
-        ]
       }
      
     ],
@@ -392,20 +368,19 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:info@TelaviOneChatAI.com"
+        "href": "mailto:support@telavi.com.ph"
       }
     ],
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://bot.TelaviOneChatAI.com"
+      "href": "https://onechatai.telavi.com.ph"
     }
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "facebook": "https://www.facebook.com/TelaviPH",
+      "linkedin": "https://www.linkedin.com/showcase/telavi-cloud"
     }
   }
 }
