@@ -358,11 +358,11 @@
     "global": {
     }
   },
-  "favicon": "TelaviOneChatAILogo.png",
+  "favicon": "/logo/OneChatAI_Logo_White.png",
 
   "logo": {
-    "light": "/logo/Light_and_Dark_TelaviOneChatAI.png",
-    "dark": "/logo/Light_and_Dark_TelaviOneChatAI.png"
+    "light": "/logo/BannerLogo_Blue.png",
+    "dark": "/logo/BannerLogo_White.png"
   },
   "navbar": {
     "links": [
