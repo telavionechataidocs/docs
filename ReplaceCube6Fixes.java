@@ -56,7 +56,7 @@ public class ReplaceTelaviOneChatAIFixes {
             String content = Files.readString(filePath);
             String updated = content
                     .replace("_ TelaviOneChatAI", "_TelaviOneChatAI")
-                    .replace("how- TelaviOneChatAI-works", "how-botpenguin-works");
+                    .replace("how- TelaviOneChatAI-works", "how-TelaviOneChatAI-works");
 
             if (!content.equals(updated)) {
                 Files.writeString(filePath, updated);
