@@ -355,7 +355,10 @@
     "global": {
     }
   },
-  "favicon": "/logo/OneChatAI_Logo_White.png",
+  "favicon": {
+    "light": "/images/Telavi_HighRes.png",
+    "dark": "/images/Telavi_HighRes.png"
+  },
 
   "logo": {
     "light": "/logo/BannerLogo_Blue.png",
