@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "mintlify ",
+  "name": "TelaviOneChatAI",
   "colors": {
     "primary": "#2d32d2",
     "light": "#ffffff",
@@ -379,5 +379,6 @@
       "facebook": "https://www.facebook.com/TelaviPH",
       "linkedin": "https://www.linkedin.com/showcase/telavi-cloud"
     }
-  }
+  },
+  "description": "Official documentation for TelaviOneChatAI. Learn how to set up, configure, and manage your AI chatbot, integrations, communication channels, automations, knowledge base, user management, APIs, analytics, and platform features with step-by-step guides, tutorials, and troubleshooting resources."
 }
