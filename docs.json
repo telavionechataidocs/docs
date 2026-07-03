@@ -4,8 +4,8 @@
   "name": "TelaviOneChatAI",
   "colors": {
     "primary": "#2d32d2",
-    "light": "#ffffff",
-    "dark": "#ffffff"
+    "light": "#2d32d2",
+    "dark": "#2d32d2"
   },
   
   "navigation": {
